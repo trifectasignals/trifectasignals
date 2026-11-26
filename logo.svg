@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 294 120" width="294" height="120" role="img" aria-label="Trifecta Signals">
+  <defs>
+    <linearGradient id="tg" gradientUnits="userSpaceOnUse" x1="60" y1="10" x2="60" y2="102">
+      <stop offset="0" stop-color="#1a8ce7"/>
+      <stop offset=".52" stop-color="#1cd7cb"/>
+      <stop offset="1" stop-color="#17df97"/>
+    </linearGradient>
+    <linearGradient id="ts" gradientUnits="userSpaceOnUse" x1="112" y1="0" x2="278" y2="0">
+      <stop offset="0" stop-color="#1cd7cb"/>
+      <stop offset="1" stop-color="#17df97"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" stroke="url(#tg)" stroke-width="5" stroke-linejoin="round" transform="translate(0 6)">
+    <path d="M60 12 L74 36 L46 36 Z"/>
+    <path d="M60 30 L82 62 L38 62 Z"/>
+    <path d="M60 50 L92 94 L28 94 Z"/>
+  </g>
+  <text x="112" y="50" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="1" fill="#ffffff">Trifecta</text>
+  <text x="112" y="99" font-family="-apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="1" fill="url(#ts)">Signals</text>
+</svg>
