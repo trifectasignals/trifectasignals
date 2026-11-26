@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="logo.svg" alt="Trifecta Signals" width="420">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="logo-light.svg">
+  <img alt="Trifecta Signals" src="logo.svg">
+</picture>
 
 # Trifecta Signals
 
